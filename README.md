@@ -84,4 +84,4 @@ This dataset is licensed under the [Attribution 4.0 International (CC BY 4.0)](h
 
 ## **Kaggle Link**
 
-You can access the dataset on Kaggle [here]([https://www.kaggle.com/datasets/samps74/e-commerce-customer-behavior-dataset](https://www.kaggle.com/datasets/paulsamuelwe/e-commerce-customer-behaviour-dataset)).
+You can access the dataset on Kaggle [here](https://www.kaggle.com/datasets/paulsamuelwe/e-commerce-customer-behaviour-dataset).
